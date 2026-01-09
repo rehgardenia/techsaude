@@ -51,10 +51,4 @@ Você pode encontrar os termos na página de Cadastro.
 
 ---
 
-## 📞 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato com a equipe através do email: **suporte.techsaude@gmail.com**
-
----
-
 Agradecemos por visitar nosso repositório e contribuir para o desenvolvimento do TechSaude!
