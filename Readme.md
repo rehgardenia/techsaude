@@ -1,6 +1,6 @@
 # TECHSAUDE - Uma aplicação de armazenamento de dados médicos
 
-Bem-vindo ao repositório do TECHSAUDE! Este projeto é desenvolvido como parte do Trabalho de Conclusão de Curso (TCC) do Curso Técnico em Informática do Instituto Federal de Educação, Ciência e Técnologia de São Paulo, _Campus_ Cubatão. 
+Bem-vindo ao repositório do TECHSAUDE! Este projeto é desenvolvido como parte do Projeto de Conclusão de Curso do Curso Técnico em Informática do Instituto Federal de Educação, Ciência e Técnologia de São Paulo, _Campus_ Cubatão. 
 
 ---
 
@@ -8,9 +8,9 @@ Bem-vindo ao repositório do TECHSAUDE! Este projeto é desenvolvido como parte 
 
 O sistema visa criar uma aplicação acessível e intuitiva, onde os usuários (pacientes) possam:
 
-- **Armazenar dados médicos** como histórico de saúde, alergias, medicamentos, consultas, sintomas e mais.
-- **Marcar Consultas Médicas** e outras informações importantes.
-- **Garantir segurança e integridade** dos dados por meio de boas práticas de desenvolvimento.
+- **Armazenar dados médicos** 
+- **Marcar Consultas Médicas** 
+- **Garantir segurança e integridade** 
 
 ---
 
