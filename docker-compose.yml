@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./TechSaudeApi
+    ports:
+      - "5000:80"
+    container_name: api
+
+  frontend:
+    build: ./TechSaudeApp
+    ports:
+      - "3000:80"
+    container_name: react-app
+    depends_on:
+      - TechSaudeApi
