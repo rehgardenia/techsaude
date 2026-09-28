@@ -30,7 +30,7 @@ O sistema visa criar uma aplicação acessível e intuitiva, onde os usuários (
 3. **Acessibilidade**: Foco na usabilidade para todos os usuários.
 
 ---
-## 🌺 Autoras e Funções
+## 👤 Autoras e Funções
 
 - Grasielly Ribeiro : Front-End
 - Renata Gardenia : Back-End
